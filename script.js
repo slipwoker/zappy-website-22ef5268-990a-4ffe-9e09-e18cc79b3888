@@ -594,6 +594,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -7064,6 +7066,17 @@ function isStorefrontListingCandidate(path) {
 
 function getProductsListingPath() {
   var fallback = '/products';
+  // Prefer the authoritative server-resolved listing path (the page that
+  // actually renders the product grid). Trusting it over the DOM nav-link
+  // heuristic below fixes sites that have a separate /gallery content page in
+  // the nav: the heuristic ranks /gallery above /products and would otherwise
+  // re-rewrite every Products link/breadcrumb/back-link back to /gallery.
+  try {
+    if (typeof window !== 'undefined' && typeof window.ZAPPY_PRODUCTS_LISTING_PATH === 'string' && window.ZAPPY_PRODUCTS_LISTING_PATH.trim()) {
+      var authoritative = normalizeStorefrontRouteFromHref(window.ZAPPY_PRODUCTS_LISTING_PATH.trim());
+      if (authoritative) return authoritative;
+    }
+  } catch (e) {}
   var links = document.querySelectorAll('header a, nav a, .navbar a, .catalog-menu a');
   var bestCandidate = null;
   var listingPathHints = [
