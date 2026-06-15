@@ -2,13 +2,13 @@
 
 A handmade crafts brand specializing in the artful fusion of natural woods — olive and acacia — with epoxy resin to create functional and decorative pieces. The product line includes elegant natural cutting boards and large handcrafted mezuzahs, reflecting a blend of traditional craftsmanship and modern artisan aesthetics. The brand carries a warm, organic, and artisanal vibe with deep cultural and spiritual undertones, particularly through the Judaica elements like the mezuzah.
 
-Source: https://example.com
+Source: https://natural-wood-art.zappy5.app
 
 ---
 
 ## handmade craft shops — Natural Wood Art
 
-URL: https://example.com
+URL: https://natural-wood-art.zappy5.app
 Description: Explore handmade craft shops reimagined — olive wood, acacia, and epoxy resin fused into cutting boards and mezuzahs. Shop unique handmade gifts online today.
 
 handmade craft shops — Natural Wood Art
@@ -531,7 +531,7 @@ Return Policy
 
 ## Craftsmanship — Natural Wood Art
 
-URL: https://example.com/craftsmanship
+URL: https://natural-wood-art.zappy5.app/craftsmanship
 Description: Craftsmanship | Natural Wood Art. handmade craft shops
 
 Craftsmanship — Natural Wood Art
@@ -1051,7 +1051,7 @@ Return Policy
 
 ## Gallery — Natural Wood Art
 
-URL: https://example.com/gallery
+URL: https://natural-wood-art.zappy5.app/gallery
 Description: Gallery | Natural Wood Art. handmade craft shops
 
 Gallery — Natural Wood Art
@@ -1221,8 +1221,10 @@ Olive wood & acacia · Epoxy resin · Handcrafted in the studio
 
 
 
+
 מזוזה מעץ זית
-גימור קצה ידני ושיבוץ שרף
+גימור קצה ידני ושיבוץ שרף.
+
 
 
 
@@ -1239,8 +1241,10 @@ Olive wood & acacia · Epoxy resin · Handcrafted in the studio
 
 
 
+
 הקולקציה המלאה
 מזוזות וקרשים בסביבה טבעית
+
 
 
 
@@ -1257,8 +1261,10 @@ Olive wood & acacia · Epoxy resin · Handcrafted in the studio
 
 
 
+
 מזוזה בבית
 אורח חיים — התקנה על משקוף
+
 
 
 
@@ -1382,7 +1388,7 @@ Return Policy
 
 ## Products
 
-URL: https://example.com/products
+URL: https://natural-wood-art.zappy5.app/products
 Description: Our Products - Natural Wood Art
 
 Products - Natural Wood Art
@@ -1594,7 +1600,7 @@ Proceed to Checkout
 
 ## Cart
 
-URL: https://example.com/cart
+URL: https://natural-wood-art.zappy5.app/cart
 Description: Your Cart
 
 Cart - Natural Wood Art
@@ -1782,7 +1788,7 @@ Proceed to Checkout
 
 ## Checkout
 
-URL: https://example.com/checkout
+URL: https://natural-wood-art.zappy5.app/checkout
 Description: Checkout
 
 Checkout - Natural Wood Art
@@ -2156,7 +2162,7 @@ Proceed to Checkout
 
 ## Login
 
-URL: https://example.com/login
+URL: https://natural-wood-art.zappy5.app/login
 Description: Customer Login
 
 Login - Natural Wood Art
@@ -2351,7 +2357,7 @@ Proceed to Checkout
 
 ## My Account
 
-URL: https://example.com/account
+URL: https://natural-wood-art.zappy5.app/account
 Description: My Account
 
 My Account - Natural Wood Art
@@ -2701,7 +2707,7 @@ Proceed to Checkout
 
 ## Order Received!
 
-URL: https://example.com/order-success
+URL: https://natural-wood-art.zappy5.app/order-success
 Description: Thank you for your order
 
 Order Received! - Natural Wood Art
@@ -2913,7 +2919,7 @@ Proceed to Checkout
 
 ## Return Policy
 
-URL: https://example.com/return-policy
+URL: https://natural-wood-art.zappy5.app/return-policy
 Description: Return policy - your rights for returns and exchanges
 
 Return Policy - Natural Wood Art
@@ -3154,7 +3160,7 @@ Proceed to Checkout
 
 ## Product Details
 
-URL: https://example.com/product/:slug
+URL: https://natural-wood-art.zappy5.app/product/:slug
 Description: Product Details - Natural Wood Art
 
 Product Details - Natural Wood Art
@@ -3344,7 +3350,7 @@ Proceed to Checkout
 
 ## Products
 
-URL: https://example.com/category/:slug
+URL: https://natural-wood-art.zappy5.app/category/:slug
 Description: Products - Natural Wood Art
 
 Products - Natural Wood Art
@@ -3558,7 +3564,7 @@ Proceed to Checkout
 
 ## Privacy Policy
 
-URL: https://example.com/privacy
+URL: https://natural-wood-art.zappy5.app/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -3814,7 +3820,7 @@ Return Policy
 
 ## Accessibility Statement
 
-URL: https://example.com/accessibility
+URL: https://natural-wood-art.zappy5.app/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -4076,7 +4082,7 @@ Return Policy
 
 ## Terms & Conditions
 
-URL: https://example.com/terms
+URL: https://natural-wood-art.zappy5.app/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -4360,7 +4366,7 @@ Return Policy
 
 ## Contact — Natural Wood Art
 
-URL: https://example.com/contact
+URL: https://natural-wood-art.zappy5.app/contact
 Description: Contact | Natural Wood Art. handmade craft shops
 
 Contact — Natural Wood Art
@@ -4749,7 +4755,7 @@ Return Policy
 ## Product Catalog
 
 ### Special products
-URL: https://example.com/product/special-products-6muuvm
+URL: https://natural-wood-art.zappy5.app/product/special-products-6muuvm
 Price: 0.00 USD
 Availability: In stock
 
@@ -4758,7 +4764,7 @@ These products are more than just household items; they are statement pieces. Th
 ---
 
 ### Mezuzahs  olive wood and epoxy
-URL: https://example.com/product/mezuzahs-olive-wood-and-epoxy-w6nea7
+URL: https://natural-wood-art.zappy5.app/product/mezuzahs-olive-wood-and-epoxy-w6nea7
 Price: 79.00 USD (sale, was 90.00 USD)
 Availability: In stock
 
@@ -4767,7 +4773,7 @@ Mezuzahs that combine olive wood and epoxy (synthetic resin) are unique pieces o
 ---
 
 ### olive wood cutting bord
-URL: https://example.com/product/olive-wood-cutting-bord-nf3hg3
+URL: https://natural-wood-art.zappy5.app/product/olive-wood-cutting-bord-nf3hg3
 Price: 250.00 USD (sale, was 320.00 USD)
 Availability: In stock
 
@@ -4776,7 +4782,7 @@ This cutting board is a high-end artisanal piece that blends the rustic, ancient
 ---
 
 ### Indian Rosewood cutting bord
-URL: https://example.com/product/indian-rosewood-cutting-bord-nzusha
+URL: https://natural-wood-art.zappy5.app/product/indian-rosewood-cutting-bord-nzusha
 Price: 250.00 USD (sale, was 320.00 USD)
 Availability: In stock
 

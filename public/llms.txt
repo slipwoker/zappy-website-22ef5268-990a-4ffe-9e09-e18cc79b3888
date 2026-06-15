@@ -7,68 +7,68 @@
 ## Pages
 
 ### handmade craft shops — Natural Wood Art
-https://example.com
+https://natural-wood-art.zappy5.app
 Explore handmade craft shops reimagined — olive wood, acacia, and epoxy resin fused into cutting boards and mezuzahs. Shop unique handmade gifts online today.
 
 ### Craftsmanship — Natural Wood Art
-https://example.com/craftsmanship
+https://natural-wood-art.zappy5.app/craftsmanship
 Craftsmanship | Natural Wood Art. handmade craft shops
 
 ### Gallery — Natural Wood Art
-https://example.com/gallery
+https://natural-wood-art.zappy5.app/gallery
 Gallery | Natural Wood Art. handmade craft shops
 
 ### Products
-https://example.com/products
+https://natural-wood-art.zappy5.app/products
 Our Products - Natural Wood Art
 
 ### Cart
-https://example.com/cart
+https://natural-wood-art.zappy5.app/cart
 Your Cart
 
 ### Checkout
-https://example.com/checkout
+https://natural-wood-art.zappy5.app/checkout
 Checkout
 
 ### Login
-https://example.com/login
+https://natural-wood-art.zappy5.app/login
 Customer Login
 
 ### Account
-https://example.com/account
+https://natural-wood-art.zappy5.app/account
 My Account
 
 ### Order Success
-https://example.com/order-success
+https://natural-wood-art.zappy5.app/order-success
 Thank you for your order
 
 ### Product Detail
-https://example.com/product/:slug
+https://natural-wood-art.zappy5.app/product/:slug
 Product Details - Natural Wood Art
 
 ### Category
-https://example.com/category/:slug
+https://natural-wood-art.zappy5.app/category/:slug
 Products - Natural Wood Art
 
 ### Page
-https://example.com/menu-group-1781105071178
+https://natural-wood-art.zappy5.app/menu-group-1781105071178
 
 ### Contact — Natural Wood Art
-https://example.com/contact
+https://natural-wood-art.zappy5.app/contact
 Contact | Natural Wood Art. handmade craft shops
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://natural-wood-art.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://natural-wood-art.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://natural-wood-art.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,32 +78,32 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 4**
 
 ### Special products
-https://example.com/product/special-products-6muuvm
+https://natural-wood-art.zappy5.app/product/special-products-6muuvm
 - Price: 0.00 USD
 - Availability: In stock
 - Description: These products are more than just household items; they are statement pieces. They bridge the gap between the earthy, warm tones of the Mediterranean and the minimalist, polished finish of contemporary design. Whether used as a gift or a home upgrade, they symbolize luxury, roots, and creativity.
-- Image: https://example.com/assets/product-1774889450536-d0kz6.webp
+- Image: https://natural-wood-art.zappy5.app/assets/product-1774889450536-d0kz6.webp
 
 ### Mezuzahs  olive wood and epoxy
-https://example.com/product/mezuzahs-olive-wood-and-epoxy-w6nea7
+https://natural-wood-art.zappy5.app/product/mezuzahs-olive-wood-and-epoxy-w6nea7
 - Price: 79.00 USD (sale, was 90.00 USD)
 - Availability: In stock
 - Description: Mezuzahs that combine olive wood and epoxy (synthetic resin) are unique pieces of art that combine natural, raw materials with modern, luxurious design. This combination creates a "Natural Wood Art" look in which each mezuzah is one of a kind.
-- Image: https://example.com/assets/product-1776962615785-mitcv.webp
+- Image: https://natural-wood-art.zappy5.app/assets/product-1776962615785-mitcv.webp
 
 ### olive wood cutting bord
-https://example.com/product/olive-wood-cutting-bord-nf3hg3
+https://natural-wood-art.zappy5.app/product/olive-wood-cutting-bord-nf3hg3
 - Price: 250.00 USD (sale, was 320.00 USD)
 - Availability: In stock
 - Description: This cutting board is a high-end artisanal piece that blends the rustic, ancient beauty of natural olive wood with the sleek, modern aesthetic of liquid resin. Each board is a one-of-a-kind creation, as the resin follows the unique, organic contours of the specific wood slab used.
-- Image: https://example.com/assets/product-1776962310065-tjdltt.webp
+- Image: https://natural-wood-art.zappy5.app/assets/product-1776962310065-tjdltt.webp
 
 ### Indian Rosewood cutting bord
-https://example.com/product/indian-rosewood-cutting-bord-nzusha
+https://natural-wood-art.zappy5.app/product/indian-rosewood-cutting-bord-nzusha
 - Price: 250.00 USD (sale, was 320.00 USD)
 - Availability: In stock
 - Description: Indian Rosewood cutting bord
-- Image: https://example.com/assets/product-1776961668415-qkui8.webp
+- Image: https://natural-wood-art.zappy5.app/assets/product-1776961668415-qkui8.webp
 
 ---
 
@@ -128,8 +128,8 @@ handmade crafts & woodworking
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://natural-wood-art.zappy5.app/sitemap.xml
+- Robots: https://natural-wood-art.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://natural-wood-art.zappy5.app/llms-full.txt
+- Products (JSON): https://natural-wood-art.zappy5.app/products.json
+- Products (Google Merchant RSS): https://natural-wood-art.zappy5.app/product-feed.xml

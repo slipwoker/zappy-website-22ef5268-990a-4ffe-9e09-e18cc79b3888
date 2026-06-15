@@ -2,729 +2,729 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app" />
   </url>
   <url>
-    <loc>https://example.com/he</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app" />
   </url>
   <url>
-    <loc>https://example.com/de</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app" />
   </url>
   <url>
-    <loc>https://example.com/fr</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app" />
   </url>
   <url>
-    <loc>https://example.com/craftsmanship</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/craftsmanship</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/craftsmanship" />
   </url>
   <url>
-    <loc>https://example.com/he/craftsmanship</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/craftsmanship</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/craftsmanship" />
   </url>
   <url>
-    <loc>https://example.com/de/craftsmanship</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/craftsmanship</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/craftsmanship" />
   </url>
   <url>
-    <loc>https://example.com/fr/craftsmanship</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/craftsmanship</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/craftsmanship" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/craftsmanship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/craftsmanship" />
   </url>
   <url>
-    <loc>https://example.com/gallery</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/gallery</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/gallery" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/gallery" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/gallery" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/gallery" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/gallery" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/gallery" />
   </url>
   <url>
-    <loc>https://example.com/he/gallery</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/gallery</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/gallery" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/gallery" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/gallery" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/gallery" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/gallery" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/gallery" />
   </url>
   <url>
-    <loc>https://example.com/de/gallery</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/gallery</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/gallery" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/gallery" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/gallery" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/gallery" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/gallery" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/gallery" />
   </url>
   <url>
-    <loc>https://example.com/fr/gallery</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/gallery</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/gallery" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/gallery" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/gallery" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/gallery" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/gallery" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/gallery" />
   </url>
   <url>
-    <loc>https://example.com/products</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/products</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/products" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/products" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/products" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/products" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/products" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/products" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/products" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/products" />
   </url>
   <url>
-    <loc>https://example.com/he/products</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/products</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/products" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/products" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/products" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/products" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/products" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/products" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/products" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/products" />
   </url>
   <url>
-    <loc>https://example.com/de/products</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/products</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/products" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/products" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/products" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/products" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/products" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/products" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/products" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/products" />
   </url>
   <url>
-    <loc>https://example.com/fr/products</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/products</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/products" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/products" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/products" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/products" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/products" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/products" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/products" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/products" />
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/cart</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/cart" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/cart" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/cart" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/cart" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/cart" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/cart" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/cart" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/cart" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/cart" />
   </url>
   <url>
-    <loc>https://example.com/he/cart</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/cart</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/cart" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/cart" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/cart" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/cart" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/cart" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/cart" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/cart" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/cart" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/cart" />
   </url>
   <url>
-    <loc>https://example.com/de/cart</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/cart</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/cart" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/cart" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/cart" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/cart" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/cart" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/cart" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/cart" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/cart" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/cart" />
   </url>
   <url>
-    <loc>https://example.com/fr/cart</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/cart</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/cart" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/cart" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/cart" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/cart" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/cart" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/cart" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/cart" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/cart" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/cart" />
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/checkout</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/checkout" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/checkout" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/checkout" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/checkout" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/checkout" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/checkout" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/checkout" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/checkout" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/checkout" />
   </url>
   <url>
-    <loc>https://example.com/he/checkout</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/checkout</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/checkout" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/checkout" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/checkout" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/checkout" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/checkout" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/checkout" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/checkout" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/checkout" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/checkout" />
   </url>
   <url>
-    <loc>https://example.com/de/checkout</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/checkout</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/checkout" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/checkout" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/checkout" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/checkout" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/checkout" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/checkout" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/checkout" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/checkout" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/checkout" />
   </url>
   <url>
-    <loc>https://example.com/fr/checkout</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/checkout</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/checkout" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/checkout" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/checkout" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/checkout" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/checkout" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/checkout" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/checkout" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/checkout" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/checkout" />
   </url>
   <url>
-    <loc>https://example.com/login</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/login</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/login" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/login" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/login" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/login" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/login" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/login" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/login" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/login" />
   </url>
   <url>
-    <loc>https://example.com/he/login</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/login</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/login" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/login" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/login" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/login" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/login" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/login" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/login" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/login" />
   </url>
   <url>
-    <loc>https://example.com/de/login</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/login</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/login" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/login" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/login" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/login" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/login" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/login" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/login" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/login" />
   </url>
   <url>
-    <loc>https://example.com/fr/login</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/login</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/login" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/login" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/login" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/login" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/login" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/login" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/login" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/login" />
   </url>
   <url>
-    <loc>https://example.com/account</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/account</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/account" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/account" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/account" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/account" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/account" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/account" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/account" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/account" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/account" />
   </url>
   <url>
-    <loc>https://example.com/he/account</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/account</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/account" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/account" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/account" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/account" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/account" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/account" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/account" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/account" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/account" />
   </url>
   <url>
-    <loc>https://example.com/de/account</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/account</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/account" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/account" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/account" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/account" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/account" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/account" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/account" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/account" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/account" />
   </url>
   <url>
-    <loc>https://example.com/fr/account</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/account</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/account" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/account" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/account" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/account" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/account" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/account" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/account" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/account" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/account" />
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/order-success</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/order-success" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/order-success" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/order-success" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/order-success" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/order-success" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/order-success" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/order-success" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/order-success" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/order-success" />
   </url>
   <url>
-    <loc>https://example.com/he/order-success</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/order-success</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/order-success" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/order-success" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/order-success" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/order-success" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/order-success" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/order-success" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/order-success" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/order-success" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/order-success" />
   </url>
   <url>
-    <loc>https://example.com/de/order-success</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/order-success</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/order-success" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/order-success" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/order-success" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/order-success" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/order-success" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/order-success" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/order-success" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/order-success" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/order-success" />
   </url>
   <url>
-    <loc>https://example.com/fr/order-success</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/order-success</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/order-success" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/order-success" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/order-success" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/order-success" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/order-success" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/order-success" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/order-success" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/order-success" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/order-success" />
   </url>
   <url>
-    <loc>https://example.com/product/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/product/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/product/:slug" />
   </url>
   <url>
-    <loc>https://example.com/he/product/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/product/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/product/:slug" />
   </url>
   <url>
-    <loc>https://example.com/de/product/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/product/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/product/:slug" />
   </url>
   <url>
-    <loc>https://example.com/fr/product/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/product/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/product/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/product/:slug" />
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/category/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/category/:slug" />
   </url>
   <url>
-    <loc>https://example.com/he/category/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/category/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/category/:slug" />
   </url>
   <url>
-    <loc>https://example.com/de/category/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/category/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/category/:slug" />
   </url>
   <url>
-    <loc>https://example.com/fr/category/:slug</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/category/:slug</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/category/:slug" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/category/:slug" />
   </url>
   <url>
-    <loc>https://example.com/menu-group-1781105071178</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/menu-group-1781105071178</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
   </url>
   <url>
-    <loc>https://example.com/he/menu-group-1781105071178</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/menu-group-1781105071178</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
   </url>
   <url>
-    <loc>https://example.com/de/menu-group-1781105071178</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/menu-group-1781105071178</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
   </url>
   <url>
-    <loc>https://example.com/fr/menu-group-1781105071178</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/menu-group-1781105071178</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/menu-group-1781105071178" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/menu-group-1781105071178" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/menu-group-1781105071178" />
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/contact</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/contact" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://example.com/he/contact</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/contact</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/contact" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://example.com/de/contact</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/contact</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/contact" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://example.com/fr/contact</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/contact</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/contact" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/privacy" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/privacy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/privacy" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
-  </url>
-  <url>
-    <loc>https://example.com/he/privacy</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/privacy</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/privacy" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/privacy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/privacy" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/privacy" />
   </url>
   <url>
-    <loc>https://example.com/de/privacy</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/privacy</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/privacy" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/privacy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/privacy" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/privacy" />
   </url>
   <url>
-    <loc>https://example.com/fr/privacy</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/privacy</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/privacy" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/privacy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/privacy" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/privacy" />
   </url>
   <url>
-    <loc>https://example.com/terms</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/privacy</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/terms" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/terms" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/terms" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/privacy" />
   </url>
   <url>
-    <loc>https://example.com/he/terms</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/terms</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/terms" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/terms" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/terms" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/terms" />
   </url>
   <url>
-    <loc>https://example.com/de/terms</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/terms</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/terms" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/terms" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/terms" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/terms" />
   </url>
   <url>
-    <loc>https://example.com/fr/terms</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/terms</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/terms" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/terms" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/terms" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/terms" />
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/fr/terms</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/accessibility" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/accessibility" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/accessibility" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/terms" />
   </url>
   <url>
-    <loc>https://example.com/he/accessibility</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/accessibility</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/accessibility" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/accessibility" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/accessibility" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/accessibility" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/accessibility" />
   </url>
   <url>
-    <loc>https://example.com/de/accessibility</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/he/accessibility</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/accessibility" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/accessibility" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/accessibility" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/accessibility" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/accessibility" />
   </url>
   <url>
-    <loc>https://example.com/fr/accessibility</loc>
-    <lastmod>2026-06-14</lastmod>
+    <loc>https://natural-wood-art.zappy5.app/de/accessibility</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/accessibility" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/he/accessibility" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/accessibility" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/accessibility" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/accessibility" />
   </url>
   <url>
-    <loc>https://example.com/product/special-products-6muuvm</loc>
+    <loc>https://natural-wood-art.zappy5.app/fr/accessibility</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://natural-wood-art.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://natural-wood-art.zappy5.app/he/accessibility" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://natural-wood-art.zappy5.app/de/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://natural-wood-art.zappy5.app/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://natural-wood-art.zappy5.app/accessibility" />
+  </url>
+  <url>
+    <loc>https://natural-wood-art.zappy5.app/product/special-products-6muuvm</loc>
     <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mezuzahs-olive-wood-and-epoxy-w6nea7</loc>
+    <loc>https://natural-wood-art.zappy5.app/product/mezuzahs-olive-wood-and-epoxy-w6nea7</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/olive-wood-cutting-bord-nf3hg3</loc>
+    <loc>https://natural-wood-art.zappy5.app/product/olive-wood-cutting-bord-nf3hg3</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/indian-rosewood-cutting-bord-nzusha</loc>
+    <loc>https://natural-wood-art.zappy5.app/product/indian-rosewood-cutting-bord-nzusha</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
