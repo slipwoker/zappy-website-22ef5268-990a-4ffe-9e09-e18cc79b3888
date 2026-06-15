@@ -2165,7 +2165,7 @@ html[dir="rtl"] body {
   <div class="home-hero-content-wrap" data-zappy-align-target="true" style="">
     <div class="home-hero-content">
       <h1 class="home-hero-h1" style="max-width: 45ch; margin-left: auto; margin-right: auto; text-align: center;" data-zappy-text-width="narrow"></h1><h2 style="text-align: center; box-sizing: border-box !important; outline: none; display: block !important; width: 690px !important; max-width: 690px !important; margin-left: calc(50% - 345px) !important; margin-right: calc(50% - 345px) !important; margin-inline: calc(50% - 345px) !important;" data-i18n="home_h2_1" data-zappy-text-width="custom"><font color="#ffffff">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;עצים מארץ ישראל&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; עצי זית ושיטה&nbsp;</font></h2>
-      <h2></h2><h2 style="text-align: center;" data-i18n="home_h3_9"><span style="color: #f2ebdd !important"><span style="color: #f2ebdd !important">מוצרים בעבודת יד העשויים בארץ ישראל מעצי זית ושיטה מהגליל והרי ירושלים</span></span></h2><br>
+      <h2></h2><h2 style="text-align: center;" data-i18n="home_h3_9"><span style="color: #ffffff !important">מוצרים בעבודת יד העשויים בארץ ישראל מעצי זית ושיטה מהגליל והרי ירושלים</span></h2><br>
       <div class="home-hero-ctas">
         <a href="/products" class="home-hero-btn-primary btn btn-primary" data-element-type="button" data-element-id="btn-1774543096578-t6gbsqixs" data-native-element="true" data-i18n="home_link_60" style="outline: none; border-color: rgb(74, 46, 34) !important; color: rgb(255, 255, 255) !important; background-color: rgb(74, 46, 34) !important; background-image: none !important;">בירור על יצירה</a>
         <a href="/gallery" class="home-hero-btn-secondary" data-element-type="button" data-element-id="btn-1774543096578-ue3ozk7da" data-native-element="true" data-i18n="home_link_61">צפה בגלריה</a>
@@ -2679,6 +2679,9 @@ html[dir="rtl"] body {
 
 
 
+
+
+
 <!-- i18next Multi-Language Support (Dynamic Loader) -->
 <script>
 (function() {
@@ -2931,15 +2934,32 @@ html[dir="rtl"] body {
         }
       }
 
-      // Carry over inline formatting from the source element when the translation
-      // is plain text (mirrors the same logic in generateI18nextScript).
+      // Carry over a single inline colour/format wrapper from the source element
+      // when the translation is plain text (mirrors generateI18nextScript). The
+      // inline-editor colour picker wraps the selected text in
+      // <span style="color:#hex !important"> (legacy edits used <font color>).
+      // Without re-applying that wrapper, the textContent/innerHTML swap below
+      // destroys it and the user's picked text colour silently reverts to the
+      // CSS default on every load / language switch.
+      var wrappedFormatting = false;
       var fontChild = el.querySelector('font[color], font[face], font[size]');
-      if (fontChild && !inlineFormatPattern.test(translation)) {
-        var fontTag = '<font';
-        for (var ai = 0; ai < fontChild.attributes.length; ai++) {
-          fontTag += ' ' + fontChild.attributes[ai].name + '="' + fontChild.attributes[ai].value.replace(/"/g, '&quot;') + '"';
+      var styleWrapper = fontChild;
+      if (!styleWrapper && el.children.length === 1) {
+        var onlyChild = el.children[0];
+        if (onlyChild && onlyChild.tagName === 'SPAN' &&
+            /(^|;)\s*(color|background|background-color)\s*:/i.test(onlyChild.getAttribute('style') || '') &&
+            onlyChild.textContent.trim() === (el.textContent || '').trim()) {
+          styleWrapper = onlyChild;
         }
-        translation = fontTag + '>' + translation + '</font>';
+      }
+      if (styleWrapper && !inlineFormatPattern.test(translation) && !structuralTagPattern.test(translation)) {
+        var wrapperTag = styleWrapper.tagName.toLowerCase();
+        var openTag = '<' + wrapperTag;
+        for (var ai = 0; ai < styleWrapper.attributes.length; ai++) {
+          openTag += ' ' + styleWrapper.attributes[ai].name + '="' + styleWrapper.attributes[ai].value.replace(/"/g, '&quot;') + '"';
+        }
+        translation = openTag + '>' + translation + '</' + wrapperTag + '>';
+        wrappedFormatting = true;
       }
 
       var hasNewlines = translation.indexOf(newlineChar) !== -1;
@@ -2947,7 +2967,7 @@ html[dir="rtl"] body {
       var hasEntities = /&[a-zA-Z]+;|&#\d+;|&#x[0-9a-fA-F]+;/.test(translation);
       var elementHasBr = /<br\s*\/?>/i.test(el.innerHTML);
 
-      if (hasNewlines || hasInlineFormat || hasEntities || elementHasBr) {
+      if (hasNewlines || hasInlineFormat || hasEntities || elementHasBr || wrappedFormatting) {
         el.innerHTML = translation.split(newlineChar).join('<br>');
       } else {
         el.textContent = translation;
