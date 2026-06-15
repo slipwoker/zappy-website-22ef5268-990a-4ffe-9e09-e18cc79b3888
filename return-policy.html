@@ -112,6 +112,37 @@
   var visitorId = getVisitorId();
   var sessionId = getSessionId();
   
+  // Site Optimization Agent — visual heatmap helpers
+  function getBandAnchor(el) {
+    var node = el;
+    while (node && node !== document.body) {
+      if (node.getAttribute && node.getAttribute('data-band-index') != null) {
+        return { bandIndex: node.getAttribute('data-band-index'), sectionId: node.id || null };
+      }
+      node = node.parentElement;
+    }
+    node = el;
+    while (node && node !== document.body) {
+      if (node.tagName === 'SECTION' && node.id) {
+        return { bandIndex: null, sectionId: node.id };
+      }
+      node = node.parentElement;
+    }
+    return { bandIndex: null, sectionId: null };
+  }
+  function heatmapFields(el, e) {
+    var anchor = getBandAnchor(el);
+    return {
+      x: Math.round((e && e.pageX) || 0),
+      y: Math.round((e && e.pageY) || 0),
+      bandIndex: anchor.bandIndex,
+      sectionId: anchor.sectionId
+    };
+  }
+  function mergeFields(base, extra) {
+    for (var k in extra) { if (Object.prototype.hasOwnProperty.call(extra, k)) base[k] = extra[k]; }
+    return base;
+  }
   // Track an event
   function trackEvent(eventType, data) {
     data = data || {};
@@ -161,26 +192,61 @@
       // Track button clicks (counted as actions)
       if (target.tagName === 'BUTTON' || target.closest('button')) {
         var button = target.tagName === 'BUTTON' ? target : target.closest('button');
-        trackEvent('click', {
+        var clickMeta = {
           element: 'button',
           text: button.textContent.trim().substring(0, 100),
           id: button.id || null,
           class: button.className || null
-        });
+        };
+        mergeFields(clickMeta, heatmapFields(button, e));
+        trackEvent('click', clickMeta);
       }
       
       // Track link clicks (navigation - not counted as actions)
       else if (target.tagName === 'A' || target.closest('a')) {
         var link = target.tagName === 'A' ? target : target.closest('a');
-        trackEvent('navigation', {
+        var navMeta = {
           element: 'link',
           text: link.textContent.trim().substring(0, 100),
           href: link.href,
           external: link.hostname !== window.location.hostname
-        });
+        };
+        mergeFields(navMeta, heatmapFields(link, e));
+        trackEvent('navigation', navMeta);
       }
     }, true);
   }
+  
+  // Track scroll depth milestones (visual heatmap reach signal)
+  (function() {
+    var milestones = [25, 50, 75, 100];
+    var fired = {};
+    var maxDepth = 0;
+    function computeDepth() {
+      var doc = document.documentElement;
+      var scrollable = (doc.scrollHeight - window.innerHeight);
+      if (scrollable <= 0) return 100;
+      return Math.min(100, Math.round(((window.scrollY || window.pageYOffset || 0) / scrollable) * 100));
+    }
+    var ticking = false;
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(function() {
+        var depth = computeDepth();
+        if (depth > maxDepth) maxDepth = depth;
+        for (var i = 0; i < milestones.length; i++) {
+          var m = milestones[i];
+          if (depth >= m && !fired[m]) {
+            fired[m] = true;
+            trackEvent('scroll_depth', { milestone: m, maxDepthPct: maxDepth });
+          }
+        }
+        ticking = false;
+      });
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+  })();
   
   // Track form submissions
   if (config.trackFormSubmissions) {
@@ -223,6 +289,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Return Policy">
     <meta name="twitter:description" content="Return policy - your rights for returns and exchanges">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://natural-wood-art.zappy5.app#organization","name":"Natural Wood Art","url":"https://natural-wood-art.zappy5.app","description":"A handmade crafts brand specializing in the artful fusion of natural woods — olive and acacia — with epoxy resin to create functional and decorative pieces. The product line includes elegant natural cutting boards and large handcrafted mezuzahs, reflecting a blend of traditional craftsmanship and modern artisan aesthetics. The brand carries a warm, organic, and artisanal vibe with deep cultural and spiritual undertones, particularly through the Judaica elements like the mezuzah.","address":{"@type":"PostalAddress","streetAddress":"4522570, ISRAEL"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"support@nwooda.com","telephone":"+972505588259","availableLanguage":["en","he","de","fr"]}]},{"@type":"WebSite","@id":"https://natural-wood-art.zappy5.app#website","url":"https://natural-wood-art.zappy5.app","name":"Natural Wood Art","publisher":{"@id":"https://natural-wood-art.zappy5.app#organization"},"inLanguage":"en"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://natural-wood-art.zappy5.app"},{"@type":"ListItem","position":2,"name":"Return Policy","item":"https://natural-wood-art.zappy5.app/return-policy"}]}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="en_US">
   
@@ -2854,7 +2921,7 @@ html[dir="rtl"] body {
       "craftsmanship_p_44": "Join our community of craft lovers and see our latest work.",
       "craftsmanship_p_45": "© 2026 Natural Wood Art. All rights reserved.",
       "gallery_caption_53": "Olive Wood River Board\n          Grain detail & resin flow",
-      "gallery_caption_54": "Olive Wood Mezuzah\n          Hand-finished edge & resin inlay",
+      "gallery_caption_54": "Olive wood mezuzah\n          Hand-finished edge and resin inlay.",
       "gallery_caption_55": "Acacia Harvest Board\n          Styled setting & amber resin",
       "gallery_caption_56": "The Full Collection\n          Mezuzahs & boards in natural setting",
       "gallery_caption_57": "Grain & Resin Detail\n          Macro — hand-oiled finish",
@@ -4458,7 +4525,7 @@ html[dir="rtl"] body {
       "craftsmanship_p_44": "הצטרפו לקהילת אוהבי המלאכה שלנו וראו את העבודות האחרונות שלנו.",
       "craftsmanship_p_45": "© 2026 Natural Wood Art. כל הזכויות שמורות.",
       "gallery_caption_53": "קרש נהר מעץ זית\n          פרטי גרגר וזרימת שרף",
-      "gallery_caption_54": "מזוזה מעץ זית\n          גימור קצה ידני ושיבוץ שרף",
+      "gallery_caption_54": "מזוזה מעץ זית\n          גימור קצה ידני ושיבוץ שרף.",
       "gallery_caption_55": "קרש קציר מעץ שיטה\n          סטיילינג ושרף ענבר",
       "gallery_caption_56": "הקולקציה המלאה\n          מזוזות וקרשים בסביבה טבעית",
       "gallery_caption_57": "פרטי גרגר ושרף\n          מאקרו — גימור שמן ידני",
@@ -6062,7 +6129,7 @@ html[dir="rtl"] body {
       "craftsmanship_p_44": "Treten Sie unserer Gemeinschaft von Handwerksliebhabern bei und sehen Sie unsere neuesten Arbeiten.",
       "craftsmanship_p_45": "© 2026 Natural Wood Art. Alle Rechte vorbehalten.",
       "gallery_caption_53": "Olivenholz River Board\n          Maserungsdetail & Harzfluss",
-      "gallery_caption_54": "Olivenholz Mezuzah\n          Handveredelter Rand & Harzeinlage",
+      "gallery_caption_54": "Mesusa aus Olivenholz\n          Handgefertigter Kantenabschluss und Harzeinlage.",
       "gallery_caption_55": "Akazien Harvest Board\n          Stilvolles Setting & Bernsteinharz",
       "gallery_caption_56": "Die komplette Kollektion\n          Mezuzahs & Bretter in natürlicher Umgebung",
       "gallery_caption_57": "Maserungs- & Harzdetail\n          Makro — handgeölte Oberfläche",
@@ -7666,7 +7733,7 @@ html[dir="rtl"] body {
       "craftsmanship_p_44": "Rejoignez notre communauté d'amateurs d'artisanat et découvrez nos dernières créations.",
       "craftsmanship_p_45": "© 2026 Natural Wood Art. Tous droits réservés.",
       "gallery_caption_53": "Planche Rivière en Bois d'Olivier\n          Détail du grain & écoulement de résine",
-      "gallery_caption_54": "Mezuzah en Bois d'Olivier\n          Bord fini à la main & incrustation de résine",
+      "gallery_caption_54": "Mezouzah en bois d'olivier\n          Finition manuelle des bords et incrustation de résine.",
       "gallery_caption_55": "Planche Récolte en Acacia\n          Mise en scène stylisée & résine ambrée",
       "gallery_caption_56": "La Collection Complète\n          Mezuzahs & planches dans un cadre naturel",
       "gallery_caption_57": "Détail Grain & Résine\n          Macro — finition huilée à la main",
@@ -8515,16 +8582,32 @@ html[dir="rtl"] body {
         }
       }
 
-      // Carry over inline formatting from the source element when the translation
-      // is plain text. E.g., source: <font color="#fff">Hebrew</font>,
-      // translation: "English" → wrap as <font color="#fff">English</font>.
+      // Carry over a single inline colour/format wrapper from the source element
+      // when the translation is plain text. The inline-editor colour picker wraps
+      // the selected text in <span style="color:#hex !important"> (legacy edits
+      // used <font color>). Without re-applying that wrapper, the
+      // textContent/innerHTML swap below destroys it and the user's picked text
+      // colour silently reverts to the CSS default on every load / language
+      // switch (the edit IS saved in the HTML — it's just re-rendered away here).
+      var wrappedFormatting = false;
       var fontChild = el.querySelector('font[color], font[face], font[size]');
-      if (fontChild && !inlineFormatPattern.test(translation)) {
-        var fontTag = '<font';
-        for (var ai = 0; ai < fontChild.attributes.length; ai++) {
-          fontTag += ' ' + fontChild.attributes[ai].name + '="' + fontChild.attributes[ai].value.replace(/"/g, '&quot;') + '"';
+      var styleWrapper = fontChild;
+      if (!styleWrapper && el.children.length === 1) {
+        var onlyChild = el.children[0];
+        if (onlyChild && onlyChild.tagName === 'SPAN' &&
+            /(^|;)\s*(color|background|background-color)\s*:/i.test(onlyChild.getAttribute('style') || '') &&
+            onlyChild.textContent.trim() === (el.textContent || '').trim()) {
+          styleWrapper = onlyChild;
         }
-        translation = fontTag + '>' + translation + '</font>';
+      }
+      if (styleWrapper && !inlineFormatPattern.test(translation) && !structuralTagPattern.test(translation)) {
+        var wrapperTag = styleWrapper.tagName.toLowerCase();
+        var openTag = '<' + wrapperTag;
+        for (var ai = 0; ai < styleWrapper.attributes.length; ai++) {
+          openTag += ' ' + styleWrapper.attributes[ai].name + '="' + styleWrapper.attributes[ai].value.replace(/"/g, '&quot;') + '"';
+        }
+        translation = openTag + '>' + translation + '</' + wrapperTag + '>';
+        wrappedFormatting = true;
       }
 
       var hasNewlines = translation.indexOf(newlineChar) !== -1;
@@ -8532,7 +8615,7 @@ html[dir="rtl"] body {
       var hasEntities = /&[a-zA-Z]+;|&#\d+;|&#x[0-9a-fA-F]+;/.test(translation);
       var elementHasBr = /<br\s*\/?>/i.test(el.innerHTML);
 
-      if (hasNewlines || hasInlineFormat || hasEntities || elementHasBr) {
+      if (hasNewlines || hasInlineFormat || hasEntities || elementHasBr || wrappedFormatting) {
         el.innerHTML = translation.split(newlineChar).join('<br>');
       } else {
         el.textContent = translation;
